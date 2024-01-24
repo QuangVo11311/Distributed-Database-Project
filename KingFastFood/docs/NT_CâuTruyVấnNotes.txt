@@ -1,0 +1,10 @@
+1. Xuất ra danh sách nhân viên của toàn chi nhánh => Lấy danh sách nhân viên toàn chi nhánh.
+2. Xuất ra một hóa đơn thông qua mã hóa đơn @xyz và cho biết hóa đơn đó thuộc quản lí của chi nhánh nào => Xuất ra một hóa đơn thông qua mã hóa đơn @xyz và cho biết hóa đơn đó thuộc quản lí của chi nhánh nào.
+3. Xuất ra danh sách các món ăn có sử dụng nguyên liệu @xyz. => Tìm hiểu xem nguyên liệu đó được sử dụng cho món ăn nào.
+4. Xuất ra danh sách các hóa đơn của toàn chi nhánh có chứa các món ăn @xyz.=> Xuất ra danh sách các hóa đơn của toàn chi nhánh có chứa các món ăn @xyz
+5. Xuất ra danh sách hóa đơn của khách hàng @xyz. => Lấy ra danh sách hóa đơn của một khách hàng đã thanh toán.
+6. Xuất ra danh sách hóa đơn của nhân viên @xyz. => Lấy ra danh sách hóa đơn của một nhân viên đã thanh toán.
+7. Xuất ra chi tiết phiếu nhập (tên nguyên liệu, số lượng nhập, tên nhà cung cấp) của một phiếu nhập => Lấy CTPN
+8. Xuất ra chi tiết hóa đơn của hóa đơn @xyz: Danh sách món ăn, Thành tiền mỗi món ăn, Tên khách hàng thanh toán, Tên nhân viên thanh toán, Tổng thành tiền hóa đơn. => Lấy ra thông tin chi tiết hóa đơn của một hóa đơn nào đó.
+9. Xuất ra tổng số lượng nguyên liệu @xyz của tất cả chi nhánh, đồng thời hiển thị số lượng nguyên liệu @xyz của từng chi nhánh => Lấy ra tổng số lượng của nguyên liệu cần tìm, đồng thời số lượng nguyên liệu đó ở từng chi nhánh.
+10. Xuất ra danh sách nguyên liệu (thông tin nguyên liệu, số lượng nhập, nhập vào chi nhánh nào) đã nhập của toàn bộ chi nhánh trong @xyz tháng gần nhất tính từ thời điểm hiện tại.  => Lấy ra danh sách nguyên liệu mà cửa hàng đã nhập trong số tháng nhất định tùy ý. Giống như việc mình muốn biết trong 2 tháng tính từ thời điểm hiện tại đổ lại đây cửa hàng đã nhập vào nguyên liệu gì?

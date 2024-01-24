@@ -1,0 +1,16 @@
+- CSDL gốc phân tán ra 3 CSDL của 3 chi nhánh
+	+ Miền Bắc
+	+ Miền Trung
+	+ Miền Nam
+
+- Các Database đều được đặt tên như sau:
+	+ DB Tổng: KFF_MAIN
+	+ DB Miền Bắc: KFF_MIENBAC
+	+ DB Miền Trung: KFF_MIENTRUNG
+ 	+ DB Miền Nam: KFF_MIENNAM
+
+=> Do đó, Dữ liệu phân mảnh ngang thông qua mã Chi nhánh trong Nhân Viên và Nguyên Liệu 
+Notes: 
+	+ Nhân viên phân mảnh cho biết nhân viên thuộc vùng nào trong hệ thống
+	+ Nguyên liệu đóng vai trò như một nhà kho lưu trữ của mỗi vùng trong hệ thống
+
